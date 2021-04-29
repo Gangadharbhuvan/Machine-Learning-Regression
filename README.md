@@ -1,7 +1,7 @@
 # Machine-Learning-Regression
 Regression
 
-This repo contains code of all the different kinds of Regression
+This repo contains Notebooks on different types of Regression
 
 - Simple Linear Regression
 - Multiple Linear Regression
