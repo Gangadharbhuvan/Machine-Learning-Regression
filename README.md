@@ -10,7 +10,9 @@ This repo contains Notebooks on different types -
 - Ridge and Lasso regression
 - Decision Tree Regressor
 - Support vector Regressor
+
  <hr>
+
 ### Classification
 - Decision Tree Classification
 - K-Nearest Neighbors (K-NN)
